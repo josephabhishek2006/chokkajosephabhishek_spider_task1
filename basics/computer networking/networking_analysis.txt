@@ -37,7 +37,8 @@ Their presence suggests an attempt to distract or mislead the analyst.
 These files likely contain irrelevant or misleading data, serving as decoys compared to the actual important file 'encoded.txt' containing the base64-encoded flag.
 
 Question 8: Are there any known ports being used for uncommon services?
-Answer: Yes, the capture shows TCP traffic between a client high port (44046) and server port 8000. Port 8000 is often used for development or custom servers, indicating an uncommon service port in use within the capture.
+Answer: Yes, the capture shows TCP traffic between a client high port (44046) and server port 8000. 
+Port 8000 is often used for development or custom servers, indicating an uncommon service port in use within the capture.
 
 Question 9: How many HTTP GET requests are visible in the capture?
 
